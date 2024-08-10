@@ -17,3 +17,12 @@ Achieved solid accuracy on both training and test sets, demonstrating the modelâ
 Implemented the model to predict diabetes on new data points, showcasing its practical application.
 Outcome:
 This project enhanced my skills in predictive modeling, particularly with SVM, and highlighted the potential of machine learning in healthcare. Iâ€™m looking forward to further optimizing the model and exploring deployment options.
+
+LANGUAGE: Python (Numpy, Pandas)
+
+LIBRARIES
+![image](https://github.com/user-attachments/assets/adf1d0c8-bb1c-413f-820f-b3fe3f8c48aa)
+
+RESULT
+![image](https://github.com/user-attachments/assets/a3efd5b0-21a0-465c-9c93-4e015baaf23a)
+
